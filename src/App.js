@@ -4,9 +4,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="https://static.wikia.nocookie.net/theloudhousefanon/images/9/96/John_Xina.webp/revision/latest?cb=20230820051413" className="App-logo" alt="logo" />
+        <img src="https://static.wikia.nocookie.net/memes-pedia/images/c/c1/John_Xina.png/revision/latest/thumbnail/width/360/height/360?cb=20211125075052&path-prefix=es" className="App-logo" alt="logo" />
         <p>
-          tu no tiene este.
+          main.
         </p>
       </header>
     </div>
